@@ -13,3 +13,8 @@
 Congratulations for deciding to Python programming, you made the right choice . In this Tutorials you will learn everything you need to be a python programmer and the various concepts along side with tips and tricks of the python programming language. At the end of the Comprehensive tutorials you will get comformtable with the python programming language to be able to express yourself and bring your ideas to live. 
 
 
+## INTRODUCTION
+
+Python is a high-level programming language for general-purpose programming. It is an open source, interpreted, objected-oriented programming language. Python was created by a Dutch programmer, Guido van Rossum. The name of Python programming language was derived from a British sketch comedy series, Month Python's Flying Circus. The first version was released on February 20, 1991. This  Python tutorials will help you learn the latest version of Python, Python 3 step by step. The topics and concepts are explained down to it simplest form with more examples and exercises for you to practice. This tutorial is a hands on objective oriented, so you to practice as you go through the matrials.
+
+This tutorial is designed for beginners and everyone including professionals who want to learn python programming language or fresh themselves. Learning a new programming language can be very challenging because the result you need ay not come as you expect however with time,patience and constant practice you will slow achieve the result.
