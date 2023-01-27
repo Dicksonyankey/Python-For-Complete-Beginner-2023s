@@ -10,6 +10,6 @@
 
 ## WELCOME 
 
-Congratulations for deciding to Python programming, you made the right choice . In this Tutorials you will learn everything you need to be a python programmer and the various concepts along side with tips and tricks of the python programming language. At the end of the Comprehensive tutorials you will get comformtable with the python programming language to be able to express yourself and bring your ideas to live.
+Congratulations for deciding to Python programming, you made the right choice . In this Tutorials you will learn everything you need to be a python programmer and the various concepts along side with tips and tricks of the python programming language. At the end of the Comprehensive tutorials you will get comformtable with the python programming language to be able to express yourself and bring your ideas to live. 
 
 
