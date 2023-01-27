@@ -4,9 +4,9 @@
 
 **<u>Find Me On</u>**
 <br>
-[Youtube](https://www.youtube.com/@dky_code)<br>
-[Instagram]( https://www.instagram.com/dky_code/)<br>
-[LinkedIn](https://www.linkedin.com/in/dickson-kwasi-yankey-29433217b/)
+- [Youtube](https://www.youtube.com/@dky_code)<br>
+- [Instagram]( https://www.instagram.com/dky_code/)<br>
+- [LinkedIn](https://www.linkedin.com/in/dickson-kwasi-yankey-29433217b/)
 
 ## WELCOME 
 
