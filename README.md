@@ -2,6 +2,9 @@
 
 <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1102113/0707-A_Python_Introduction-Waldek_Newsletter___blog-c6b0a0bace184749a9522dad0019446f-bfc6550ab26713c7ba4f71483a932bac.png"/>
 
+**Find Me On**
+[Youtube](https://www.youtube.com/@dky_code)
+
 ## WELCOME 
 
 Congratulations for deciding to Python programming, you made the right choice . In this Tutorials you will learn everything you need to be a python programmer and the various concepts along side with tips and tricks of the python programming language. At the end of the Comprehensive tutorials you will get comformtable with the python programming language to be able to express yourself and bring your ideas to live.
