@@ -34,3 +34,5 @@ Python is well known base on it wide range of areas that it can be used, such as
 7. many more libraries. 
 
 Python is highly embraced language in the data science and machine learning community. I hope this is enough to convince you to start learning Python.
+
+**HAPPY CODING**
