@@ -81,8 +81,7 @@ Now after downloading and installing the vs code editor onto your MAC or PC, the
 Next step i want you to create a folder on your desktop, give it any name of your choice.
 
 
-<center><img width= 600  src="/images/Screenshot 2023-01-28 at 5.02.06 pm copy.png
-"></center>
+<center><img width= 600  src="/images/Screenshot 2023-01-28 at 5.02.06 pm copy.png"></center>
 
 <br>
 
