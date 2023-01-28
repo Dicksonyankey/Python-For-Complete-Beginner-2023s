@@ -27,7 +27,7 @@ It is a programming language which is very close to human language and because o
 Python is well known base on it wide range of areas that it can be used, such as ;
 1. develop web applications
 2. desktop applications 
-3. system adminstratio
+3. system adminstration
 4. Hacking  
 5. Artificial Intelligence
 6. machine learning 
